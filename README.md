@@ -1,7 +1,9 @@
 # Projeto cotações
 
-## para executar configure as dependências
+Execute o comando abaixo para configurar as dependências
+
 `npm i`
 
-## Após
+Inicialização do projeto
+
 `npm start`
